@@ -5,7 +5,7 @@ Interactive dashboard built in R using Shiny to visualize COVID-19 vaccine alloc
 Built as part of a data science project and later refactored into a fully deployable interactive analytics dashboard.
 
 ## Live App
-[View the deployed app here]((https://nickkaufman.shinyapps.io/covid-vaccine-shiny-app/)
+[View the deployed app here](https://nickkaufman.shinyapps.io/covid-vaccine-shiny-app/)
 
 ---
 
