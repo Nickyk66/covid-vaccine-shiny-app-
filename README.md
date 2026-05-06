@@ -15,8 +15,11 @@ Interactive dashboard built in R using Shiny to visualize COVID-19 vaccine alloc
 - lubridate, janitor
 
 ## How to Run
+
 ```r
 shiny::runApp()
+```
 
 ## Preview
+
 ![App Preview](screenshot.png)
