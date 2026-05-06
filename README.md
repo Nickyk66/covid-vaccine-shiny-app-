@@ -18,5 +18,5 @@ Interactive dashboard built in R using Shiny to visualize COVID-19 vaccine alloc
 ```r
 shiny::runApp()
 
-```md
+## Preview
 ![App Preview](screenshot.png)
