@@ -23,3 +23,6 @@ shiny::runApp()
 ## Preview
 
 ![App Preview](screenshot.png)
+
+## Live App
+[View the app here](https://nickkaufman.shinyapps.io/covid-vaccine-shiny-app/)
